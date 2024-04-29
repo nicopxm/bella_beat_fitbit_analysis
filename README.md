@@ -1,4 +1,4 @@
-# bella_beat_fitbit_analysis
+# Bella Beat FitBit Analysis
 Participants fitbit data usage is analyzed to find trends using jupyter notebook
 
 # Introduction
